@@ -18,8 +18,12 @@ Variasi: jika script dibuat dari **Extensions → Apps Script** pada Google Shee
 
 1. Buka <https://drive.google.com> → **New → File upload** → pilih `ROTI_RONA_Pembukuan.xlsx`.
 2. Klik kanan file → **Open with → Google Sheets**, lalu **File → Save as Google Sheets**.
-3. **File → Settings** → set *Locale* ke **Indonesia** dan *Time zone* ke **(GMT+07:00) Jakarta** agar format tanggal/Rupiah mengikuti Indonesia.
+3. **File → Settings** → set *Time zone* ke **(GMT+07:00) Jakarta** ; locale boleh diubah ke Indonesia bila tidak ada `#ERROR!`.
 4. Periksa grafik di DASHBOARD. Pada beberapa kasus grafik hasil impor perlu disesuaikan ulang (Cara A lebih rapi).
+
+## Format Indonesia (opsional)
+
+Setelah `setup` selesai, spreadsheet berlocale **en_US** (sengaja, agar formula terbaca). Untuk nama bulan dan angka format Indonesia: **File → Settings → Locale → Indonesia → Save**. Periksa DASHBOARD sesudahnya; bila ada `#ERROR!`, kembalikan locale ke United States.
 
 ## Bagian yang perlu Anda konfigurasi
 
