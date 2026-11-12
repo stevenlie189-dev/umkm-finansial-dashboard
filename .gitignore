@@ -1,0 +1,18 @@
+# Secrets / konfigurasi lokal
+.env
+.env.*
+!.env.example
+.clasprc.json
+.clasp.json
+credentials*.json
+token*.json
+*.pem
+*.key
+
+# Artefak sementara
+tools/_work/
+node_modules/
+__pycache__/
+*.pyc
+~$*
+.DS_Store
