@@ -93,7 +93,6 @@ function hapusDataSimulasi() {
 }
 
 function bangun_(ss, ganti) {
-  ss.setSpreadsheetLocale('id_ID');
   ss.setSpreadsheetTimeZone('Asia/Jakarta');
   var dash, trx, kat, pet;
   if (ganti) {
@@ -112,6 +111,9 @@ function bangun_(ss, ganti) {
   bangunTransaksi_(trx);
   bangunDashboard_(dash);
   bangunPetunjuk_(pet);
+  // PENTING: locale diatur TERAKHIR. Jika diatur sebelum formula ditulis, locale id_ID
+  // (pemisah argumen titik koma) membuat seluruh formula berpemisah koma menjadi #ERROR!.
+  ss.setSpreadsheetLocale('id_ID');
   ss.setActiveSheet(dash);
 }
 
