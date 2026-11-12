@@ -1,0 +1,1410 @@
+Tanggal,Jenis Transaksi,Kategori,Keterangan,Metode Pembayaran,Nominal
+2025-01-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,810000
+2025-01-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,880000
+2025-01-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-01-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,831000
+2025-01-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,986000
+2025-01-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,960000
+2025-01-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-01-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1187000
+2025-01-04,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,330000
+2025-01-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1469000
+2025-01-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,660000
+2025-01-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,830000
+2025-01-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1015000
+2025-01-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,847000
+2025-01-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,740000
+2025-01-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1008000
+2025-01-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1030000
+2025-01-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1240000
+2025-01-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,822000
+2025-01-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,815000
+2025-01-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,995000
+2025-01-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,595000
+2025-01-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1105000
+2025-01-11,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,310000
+2025-01-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1317000
+2025-01-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,330000
+2025-01-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1024000
+2025-01-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,980000
+2025-01-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,889000
+2025-01-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,951000
+2025-01-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,890000
+2025-01-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,225000
+2025-01-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1019000
+2025-01-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1760000
+2025-01-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,932000
+2025-01-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1035000
+2025-01-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-01-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1328000
+2025-01-18,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,370000
+2025-01-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1485000
+2025-01-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,945000
+2025-01-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,860000
+2025-01-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,710000
+2025-01-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,897000
+2025-01-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-01-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1013000
+2025-01-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,905000
+2025-01-22,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Ganti mixer rusak,Transfer Bank,3800000
+2025-01-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,899000
+2025-01-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,860000
+2025-01-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,890000
+2025-01-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1280000
+2025-01-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,915000
+2025-01-25,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,315000
+2025-01-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1375000
+2025-01-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,974000
+2025-01-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,875000
+2025-01-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,980000
+2025-01-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,145000
+2025-01-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-01-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-01-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,990000
+2025-01-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,905000
+2025-01-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,910000
+2025-01-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,848000
+2025-01-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,980000
+2025-02-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1518000
+2025-02-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-02-01,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,345000
+2025-02-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1766000
+2025-02-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1040000
+2025-02-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1290000
+2025-02-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-02-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1184000
+2025-02-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1110000
+2025-02-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1170000
+2025-02-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,615000
+2025-02-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1176000
+2025-02-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1290000
+2025-02-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,455000
+2025-02-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1310000
+2025-02-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1542000
+2025-02-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1260000
+2025-02-08,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,395000
+2025-02-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1666000
+2025-02-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1034000
+2025-02-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1255000
+2025-02-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,440000
+2025-02-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1073000
+2025-02-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1282000
+2025-02-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1225000
+2025-02-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,330000
+2025-02-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1289000
+2025-02-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,210000
+2025-02-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1034000
+2025-02-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1075000
+2025-02-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1359000
+2025-02-15,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,305000
+2025-02-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,220000
+2025-02-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1568000
+2025-02-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1088000
+2025-02-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1285000
+2025-02-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-02-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1210000
+2025-02-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1093000
+2025-02-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1210000
+2025-02-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1212000
+2025-02-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,565000
+2025-02-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1042000
+2025-02-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1280000
+2025-02-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-02-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1459000
+2025-02-22,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,315000
+2025-02-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2025-02-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1611000
+2025-02-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1092000
+2025-02-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1095000
+2025-02-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1150000
+2025-02-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1271000
+2025-02-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1285000
+2025-02-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1293000
+2025-02-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1249000
+2025-02-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,125000
+2025-02-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1285000
+2025-02-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-02-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-03-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2430000
+2025-03-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-03-01,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,250000
+2025-03-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2764000
+2025-03-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1770000
+2025-03-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1675000
+2025-03-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-03-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1807000
+2025-03-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1746000
+2025-03-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1700000
+2025-03-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,740000
+2025-03-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1752000
+2025-03-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1855000
+2025-03-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1900000
+2025-03-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2382000
+2025-03-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1365000
+2025-03-08,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,280000
+2025-03-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2481000
+2025-03-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1609000
+2025-03-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1725000
+2025-03-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,755000
+2025-03-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1516000
+2025-03-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1805000
+2025-03-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1605000
+2025-03-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,300000
+2025-03-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1578000
+2025-03-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,75000
+2025-03-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1591000
+2025-03-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1780000
+2025-03-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2213000
+2025-03-15,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,355000
+2025-03-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,180000
+2025-03-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2354000
+2025-03-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1360000
+2025-03-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1818000
+2025-03-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1675000
+2025-03-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-03-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1606000
+2025-03-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1726000
+2025-03-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1775000
+2025-03-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1725000
+2025-03-20,Pendapatan,Penjualan Produk,[SIMULASI] Pesanan parcel kue kering Lebaran,Transfer Bank,4600000
+2025-03-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,720000
+2025-03-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1517000
+2025-03-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1945000
+2025-03-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-03-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2377000
+2025-03-22,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,305000
+2025-03-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2025-03-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2399000
+2025-03-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1517000
+2025-03-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1845000
+2025-03-24,Pengeluaran,Gaji,[SIMULASI] THR karyawan,Transfer Bank,8400000
+2025-03-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1866000
+2025-03-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1390000
+2025-03-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1599000
+2025-03-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1810000
+2025-03-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1610000
+2025-03-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1714000
+2025-03-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,75000
+2025-03-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1630000
+2025-03-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-03-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-03-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2468000
+2025-03-29,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,285000
+2025-03-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2552000
+2025-03-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1879000
+2025-03-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1725000
+2025-04-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1543000
+2025-04-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-04-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1594000
+2025-04-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1445000
+2025-04-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1423000
+2025-04-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-04-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1318000
+2025-04-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1435000
+2025-04-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1657000
+2025-04-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,685000
+2025-04-05,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,375000
+2025-04-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2012000
+2025-04-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1568000
+2025-04-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1385000
+2025-04-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1625000
+2025-04-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1504000
+2025-04-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1170000
+2025-04-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1565000
+2025-04-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1400000
+2025-04-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1525000
+2025-04-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,525000
+2025-04-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1556000
+2025-04-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1585000
+2025-04-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2083000
+2025-04-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,310000
+2025-04-12,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,310000
+2025-04-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2206000
+2025-04-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1490000
+2025-04-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1400000
+2025-04-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1405000
+2025-04-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,220000
+2025-04-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1492000
+2025-04-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1365000
+2025-04-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1350000
+2025-04-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-04-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1603000
+2025-04-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1435000
+2025-04-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2067000
+2025-04-19,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,275000
+2025-04-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2048000
+2025-04-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,795000
+2025-04-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1425000
+2025-04-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1485000
+2025-04-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-04-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1612000
+2025-04-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2025-04-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1323000
+2025-04-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1535000
+2025-04-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1363000
+2025-04-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1548000
+2025-04-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1305000
+2025-04-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1350000
+2025-04-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1835000
+2025-04-26,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,330000
+2025-04-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1876000
+2025-04-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1343000
+2025-04-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,80000
+2025-04-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1550000
+2025-04-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-04-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-04-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1410000
+2025-04-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1399000
+2025-04-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1600000
+2025-05-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1414000
+2025-05-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-05-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1370000
+2025-05-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1425000
+2025-05-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1691000
+2025-05-03,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,365000
+2025-05-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-05-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1742000
+2025-05-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1323000
+2025-05-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1285000
+2025-05-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,680000
+2025-05-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1417000
+2025-05-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1445000
+2025-05-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1355000
+2025-05-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1435000
+2025-05-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1414000
+2025-05-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1495000
+2025-05-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1356000
+2025-05-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1460000
+2025-05-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1651000
+2025-05-10,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,300000
+2025-05-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,870000
+2025-05-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2142000
+2025-05-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1528000
+2025-05-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1535000
+2025-05-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,275000
+2025-05-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1326000
+2025-05-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1280000
+2025-05-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1330000
+2025-05-14,Pengeluaran,Operasional,[SIMULASI] Servis oven,Transfer Bank,4500000
+2025-05-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1272000
+2025-05-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,220000
+2025-05-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1463000
+2025-05-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1340000
+2025-05-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1783000
+2025-05-17,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,265000
+2025-05-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-05-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2054000
+2025-05-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1460000
+2025-05-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1300000
+2025-05-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1372000
+2025-05-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,550000
+2025-05-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1370000
+2025-05-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1305000
+2025-05-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-05-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1296000
+2025-05-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1519000
+2025-05-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1520000
+2025-05-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1564000
+2025-05-24,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,335000
+2025-05-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2139000
+2025-05-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1000000
+2025-05-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1342000
+2025-05-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1460000
+2025-05-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1360000
+2025-05-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1220000
+2025-05-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,145000
+2025-05-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1305000
+2025-05-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-05-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-05-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1259000
+2025-05-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1382000
+2025-05-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1360000
+2025-05-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1811000
+2025-05-31,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2025-06-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1797000
+2025-06-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-06-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1380000
+2025-06-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1405000
+2025-06-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1462000
+2025-06-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-06-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1216000
+2025-06-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1325000
+2025-06-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1256000
+2025-06-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,835000
+2025-06-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1374000
+2025-06-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1425000
+2025-06-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1771000
+2025-06-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1775000
+2025-06-07,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,295000
+2025-06-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1885000
+2025-06-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1210000
+2025-06-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1193000
+2025-06-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1450000
+2025-06-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1333000
+2025-06-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,585000
+2025-06-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1466000
+2025-06-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1450000
+2025-06-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1321000
+2025-06-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,305000
+2025-06-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1477000
+2025-06-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1300000
+2025-06-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1766000
+2025-06-14,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,345000
+2025-06-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2113000
+2025-06-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,165000
+2025-06-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1364000
+2025-06-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1495000
+2025-06-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1336000
+2025-06-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-06-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1462000
+2025-06-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1300000
+2025-06-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1197000
+2025-06-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1371000
+2025-06-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1275000
+2025-06-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,785000
+2025-06-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1833000
+2025-06-21,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,360000
+2025-06-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-06-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1983000
+2025-06-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1212000
+2025-06-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1285000
+2025-06-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1409000
+2025-06-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1363000
+2025-06-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,530000
+2025-06-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1350000
+2025-06-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1461000
+2025-06-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1209000
+2025-06-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1375000
+2025-06-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1522000
+2025-06-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,130000
+2025-06-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-06-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-06-28,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,305000
+2025-06-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1995000
+2025-06-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1182000
+2025-06-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1485000
+2025-07-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1507000
+2025-07-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-07-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1392000
+2025-07-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1300000
+2025-07-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1234000
+2025-07-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-07-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1303000
+2025-07-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1445000
+2025-07-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1759000
+2025-07-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,755000
+2025-07-05,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,385000
+2025-07-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2155000
+2025-07-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1421000
+2025-07-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1535000
+2025-07-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1409000
+2025-07-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1385000
+2025-07-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1457000
+2025-07-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1410000
+2025-07-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1245000
+2025-07-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,475000
+2025-07-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1292000
+2025-07-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1330000
+2025-07-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1649000
+2025-07-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,275000
+2025-07-12,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,285000
+2025-07-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1887000
+2025-07-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,340000
+2025-07-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1235000
+2025-07-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1475000
+2025-07-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1428000
+2025-07-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,155000
+2025-07-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1249000
+2025-07-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1335000
+2025-07-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1436000
+2025-07-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-07-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1272000
+2025-07-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1390000
+2025-07-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1676000
+2025-07-19,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,355000
+2025-07-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2037000
+2025-07-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,595000
+2025-07-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1267000
+2025-07-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1350000
+2025-07-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-07-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1387000
+2025-07-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1461000
+2025-07-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1370000
+2025-07-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1363000
+2025-07-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1440000
+2025-07-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1240000
+2025-07-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1440000
+2025-07-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1743000
+2025-07-26,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,320000
+2025-07-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1853000
+2025-07-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1301000
+2025-07-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,90000
+2025-07-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1290000
+2025-07-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-07-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-07-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1215000
+2025-07-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1278000
+2025-07-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1490000
+2025-07-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1516000
+2025-08-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1488000
+2025-08-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1355000
+2025-08-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-08-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1781000
+2025-08-02,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,250000
+2025-08-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1936000
+2025-08-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-08-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1484000
+2025-08-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1580000
+2025-08-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1383000
+2025-08-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,630000
+2025-08-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1506000
+2025-08-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1335000
+2025-08-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1566000
+2025-08-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,860000
+2025-08-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1260000
+2025-08-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1365000
+2025-08-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1115000
+2025-08-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1964000
+2025-08-09,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
+2025-08-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2089000
+2025-08-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,890000
+2025-08-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1474000
+2025-08-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1580000
+2025-08-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1412000
+2025-08-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,275000
+2025-08-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1489000
+2025-08-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1405000
+2025-08-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1353000
+2025-08-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1387000
+2025-08-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1495000
+2025-08-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,170000
+2025-08-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1717000
+2025-08-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,970000
+2025-08-16,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,300000
+2025-08-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1982000
+2025-08-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-08-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1342000
+2025-08-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1580000
+2025-08-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1396000
+2025-08-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1262000
+2025-08-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1600000
+2025-08-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,585000
+2025-08-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1545000
+2025-08-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-08-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1597000
+2025-08-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1400000
+2025-08-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2025-08-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1640000
+2025-08-23,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,295000
+2025-08-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1945000
+2025-08-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1476000
+2025-08-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,650000
+2025-08-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1535000
+2025-08-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1406000
+2025-08-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1511000
+2025-08-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1460000
+2025-08-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1338000
+2025-08-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,95000
+2025-08-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-08-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-08-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1563000
+2025-08-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1580000
+2025-08-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1729000
+2025-08-30,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,290000
+2025-08-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1978000
+2025-09-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1526000
+2025-09-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1365000
+2025-09-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-09-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1414000
+2025-09-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1290000
+2025-09-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1565000
+2025-09-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-09-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1306000
+2025-09-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1512000
+2025-09-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1400000
+2025-09-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,655000
+2025-09-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1972000
+2025-09-06,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,360000
+2025-09-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2070000
+2025-09-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1740000
+2025-09-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1352000
+2025-09-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1385000
+2025-09-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1345000
+2025-09-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1557000
+2025-09-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1324000
+2025-09-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1585000
+2025-09-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,505000
+2025-09-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1506000
+2025-09-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1557000
+2025-09-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1455000
+2025-09-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,275000
+2025-09-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1645000
+2025-09-13,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,300000
+2025-09-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,200000
+2025-09-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2058000
+2025-09-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1332000
+2025-09-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1390000
+2025-09-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,200000
+2025-09-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1367000
+2025-09-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,520000
+2025-09-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1508000
+2025-09-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1550000
+2025-09-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-09-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1321000
+2025-09-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1555000
+2025-09-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1370000
+2025-09-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1712000
+2025-09-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,595000
+2025-09-20,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,255000
+2025-09-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2152000
+2025-09-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-09-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1267000
+2025-09-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1335000
+2025-09-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1530000
+2025-09-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1515000
+2025-09-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1425000
+2025-09-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1425000
+2025-09-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1795000
+2025-09-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1472000
+2025-09-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1370000
+2025-09-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2077000
+2025-09-27,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,300000
+2025-09-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1950000
+2025-09-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,65000
+2025-09-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-09-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-09-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1463000
+2025-09-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1590000
+2025-09-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1411000
+2025-10-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1593000
+2025-10-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1635000
+2025-10-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-10-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1532000
+2025-10-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1458000
+2025-10-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1385000
+2025-10-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-10-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2067000
+2025-10-04,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,380000
+2025-10-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1917000
+2025-10-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,800000
+2025-10-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1393000
+2025-10-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1400000
+2025-10-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1626000
+2025-10-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,365000
+2025-10-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1416000
+2025-10-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1450000
+2025-10-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1165000
+2025-10-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1555000
+2025-10-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1325000
+2025-10-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1415000
+2025-10-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,825000
+2025-10-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1791000
+2025-10-11,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,365000
+2025-10-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2197000
+2025-10-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,295000
+2025-10-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1614000
+2025-10-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1680000
+2025-10-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1415000
+2025-10-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1651000
+2025-10-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1465000
+2025-10-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,240000
+2025-10-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1587000
+2025-10-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,910000
+2025-10-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1346000
+2025-10-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1580000
+2025-10-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-10-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1965000
+2025-10-18,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,355000
+2025-10-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2107000
+2025-10-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1504000
+2025-10-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1555000
+2025-10-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1035000
+2025-10-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1397000
+2025-10-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-10-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1585000
+2025-10-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1465000
+2025-10-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1624000
+2025-10-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1661000
+2025-10-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1480000
+2025-10-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2003000
+2025-10-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1525000
+2025-10-25,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,315000
+2025-10-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2272000
+2025-10-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1522000
+2025-10-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1390000
+2025-10-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1322000
+2025-10-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,100000
+2025-10-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-10-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-10-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1496000
+2025-10-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1680000
+2025-10-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1379000
+2025-10-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1624000
+2025-10-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1605000
+2025-11-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2041000
+2025-11-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-11-01,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
+2025-11-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2037000
+2025-11-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1396000
+2025-11-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1575000
+2025-11-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-11-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1458000
+2025-11-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1592000
+2025-11-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1455000
+2025-11-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,745000
+2025-11-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1511000
+2025-11-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1363000
+2025-11-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1560000
+2025-11-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2031000
+2025-11-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1130000
+2025-11-08,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,335000
+2025-11-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2385000
+2025-11-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1429000
+2025-11-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1635000
+2025-11-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,400000
+2025-11-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1587000
+2025-11-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1517000
+2025-11-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1640000
+2025-11-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,255000
+2025-11-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1606000
+2025-11-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1557000
+2025-11-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1650000
+2025-11-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2184000
+2025-11-15,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,340000
+2025-11-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,225000
+2025-11-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2334000
+2025-11-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1363000
+2025-11-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1640000
+2025-11-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-11-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1642000
+2025-11-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1572000
+2025-11-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1730000
+2025-11-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1449000
+2025-11-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1085000
+2025-11-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1524000
+2025-11-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1430000
+2025-11-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-11-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1849000
+2025-11-22,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2025-11-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2000000
+2025-11-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1556000
+2025-11-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1675000
+2025-11-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1576000
+2025-11-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1566000
+2025-11-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1610000
+2025-11-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1656000
+2025-11-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1390000
+2025-11-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,75000
+2025-11-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1730000
+2025-11-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-11-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-11-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1819000
+2025-11-29,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,365000
+2025-11-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2463000
+2025-12-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1736000
+2025-12-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,2015000
+2025-12-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4500000
+2025-12-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1718000
+2025-12-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1742000
+2025-12-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1730000
+2025-12-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-12-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1726000
+2025-12-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1880000
+2025-12-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1835000
+2025-12-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,905000
+2025-12-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2093000
+2025-12-06,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,355000
+2025-12-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2844000
+2025-12-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1180000
+2025-12-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1900000
+2025-12-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1755000
+2025-12-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1290000
+2025-12-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1598000
+2025-12-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1929000
+2025-12-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,2035000
+2025-12-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,795000
+2025-12-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1994000
+2025-12-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1664000
+2025-12-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,2025000
+2025-12-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,305000
+2025-12-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2157000
+2025-12-13,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,335000
+2025-12-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,385000
+2025-12-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2501000
+2025-12-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1790000
+2025-12-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1710000
+2025-12-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,240000
+2025-12-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1773000
+2025-12-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,795000
+2025-12-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1582000
+2025-12-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1895000
+2025-12-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2025-12-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1841000
+2025-12-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1695000
+2025-12-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,2010000
+2025-12-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2573000
+2025-12-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1085000
+2025-12-20,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,285000
+2025-12-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2308000
+2025-12-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2025-12-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1719000
+2025-12-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1900000
+2025-12-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1980000
+2025-12-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1633000
+2025-12-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1955000
+2025-12-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1783000
+2025-12-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,2480000
+2025-12-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1985000
+2025-12-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1900000
+2025-12-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2071000
+2025-12-27,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,305000
+2025-12-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2467000
+2025-12-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,110000
+2025-12-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5600000
+2025-12-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2800000
+2025-12-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1803000
+2025-12-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1895000
+2025-12-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1998000
+2025-12-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1941000
+2025-12-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1945000
+2026-01-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1299000
+2026-01-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-01-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1254000
+2026-01-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1375000
+2026-01-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1630000
+2026-01-03,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2026-01-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-01-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1989000
+2026-01-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1469000
+2026-01-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1380000
+2026-01-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,875000
+2026-01-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1294000
+2026-01-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1226000
+2026-01-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1010000
+2026-01-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1270000
+2026-01-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1284000
+2026-01-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1450000
+2026-01-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1470000
+2026-01-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1420000
+2026-01-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1930000
+2026-01-10,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,260000
+2026-01-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,460000
+2026-01-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1892000
+2026-01-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1328000
+2026-01-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1345000
+2026-01-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,310000
+2026-01-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1253000
+2026-01-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1407000
+2026-01-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1340000
+2026-01-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1201000
+2026-01-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,180000
+2026-01-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1206000
+2026-01-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1310000
+2026-01-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1310000
+2026-01-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1757000
+2026-01-17,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,330000
+2026-01-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-01-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2028000
+2026-01-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1352000
+2026-01-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1285000
+2026-01-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1348000
+2026-01-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,610000
+2026-01-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1398000
+2026-01-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1460000
+2026-01-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-01-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1366000
+2026-01-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1431000
+2026-01-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1350000
+2026-01-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1910000
+2026-01-24,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,335000
+2026-01-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2055000
+2026-01-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,440000
+2026-01-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1396000
+2026-01-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1400000
+2026-01-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1466000
+2026-01-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1438000
+2026-01-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,145000
+2026-01-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1475000
+2026-01-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-01-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-01-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1348000
+2026-01-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1480000
+2026-01-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1470000
+2026-01-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1897000
+2026-01-31,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,325000
+2026-02-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2148000
+2026-02-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-02-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1592000
+2026-02-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1605000
+2026-02-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1574000
+2026-02-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-02-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1557000
+2026-02-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1805000
+2026-02-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1483000
+2026-02-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,740000
+2026-02-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1479000
+2026-02-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1835000
+2026-02-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2143000
+2026-02-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,2055000
+2026-02-07,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,265000
+2026-02-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2155000
+2026-02-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1200000
+2026-02-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1567000
+2026-02-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1610000
+2026-02-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1637000
+2026-02-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,645000
+2026-02-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1578000
+2026-02-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1635000
+2026-02-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1628000
+2026-02-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,250000
+2026-02-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1702000
+2026-02-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1865000
+2026-02-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2387000
+2026-02-14,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,375000
+2026-02-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2545000
+2026-02-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,225000
+2026-02-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1636000
+2026-02-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1600000
+2026-02-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1709000
+2026-02-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-02-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1579000
+2026-02-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1700000
+2026-02-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1726000
+2026-02-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1826000
+2026-02-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1890000
+2026-02-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1085000
+2026-02-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2264000
+2026-02-21,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2026-02-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-02-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2507000
+2026-02-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1572000
+2026-02-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1710000
+2026-02-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1485000
+2026-02-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1834000
+2026-02-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1715000
+2026-02-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1860000
+2026-02-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1542000
+2026-02-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1520000
+2026-02-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1770000
+2026-02-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1994000
+2026-02-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,130000
+2026-02-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-02-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-02-28,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2026-03-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2440000
+2026-03-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-03-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1670000
+2026-03-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1930000
+2026-03-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1706000
+2026-03-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-03-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1760000
+2026-03-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1815000
+2026-03-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2025000
+2026-03-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,770000
+2026-03-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1827000
+2026-03-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1940000
+2026-03-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2305000
+2026-03-07,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2026-03-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2815000
+2026-03-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1305000
+2026-03-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1847000
+2026-03-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1860000
+2026-03-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1633000
+2026-03-10,Pendapatan,Penjualan Produk,[SIMULASI] Pesanan parcel kue kering Lebaran,Transfer Bank,5150000
+2026-03-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,700000
+2026-03-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1800000
+2026-03-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1730000
+2026-03-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1746000
+2026-03-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,300000
+2026-03-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2042000
+2026-03-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1905000
+2026-03-13,Pengeluaran,Gaji,[SIMULASI] THR karyawan,Transfer Bank,8820000
+2026-03-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2564000
+2026-03-14,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,255000
+2026-03-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2521000
+2026-03-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,205000
+2026-03-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2042000
+2026-03-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1885000
+2026-03-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1777000
+2026-03-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-03-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1969000
+2026-03-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1800000
+2026-03-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1743000
+2026-03-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1698000
+2026-03-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,2020000
+2026-03-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1050000
+2026-03-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2249000
+2026-03-21,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,380000
+2026-03-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-03-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2391000
+2026-03-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1867000
+2026-03-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1860000
+2026-03-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2033000
+2026-03-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1915000
+2026-03-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1510000
+2026-03-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,2025000
+2026-03-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1691000
+2026-03-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1921000
+2026-03-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1965000
+2026-03-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2608000
+2026-03-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,115000
+2026-03-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-03-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-03-28,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,325000
+2026-03-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2916000
+2026-03-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1648000
+2026-03-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1930000
+2026-03-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1625000
+2026-04-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1496000
+2026-04-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1685000
+2026-04-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-04-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1688000
+2026-04-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1457000
+2026-04-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1440000
+2026-04-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-04-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2119000
+2026-04-04,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,365000
+2026-04-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2438000
+2026-04-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,925000
+2026-04-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1469000
+2026-04-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1435000
+2026-04-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1685000
+2026-04-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1500000
+2026-04-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1537000
+2026-04-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1580000
+2026-04-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1285000
+2026-04-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1355000
+2026-04-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1589000
+2026-04-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1695000
+2026-04-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,630000
+2026-04-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1958000
+2026-04-11,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,320000
+2026-04-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2116000
+2026-04-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,295000
+2026-04-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1467000
+2026-04-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1460000
+2026-04-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,170000
+2026-04-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1558000
+2026-04-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1395000
+2026-04-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1570000
+2026-04-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,170000
+2026-04-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1376000
+2026-04-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1655000
+2026-04-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1392000
+2026-04-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1645000
+2026-04-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-04-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1838000
+2026-04-18,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,280000
+2026-04-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1943000
+2026-04-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1349000
+2026-04-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1600000
+2026-04-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,755000
+2026-04-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1628000
+2026-04-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-04-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1569000
+2026-04-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1510000
+2026-04-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2026-04-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1513000
+2026-04-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1336000
+2026-04-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1450000
+2026-04-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2027000
+2026-04-25,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,375000
+2026-04-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2297000
+2026-04-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1412000
+2026-04-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1515000
+2026-04-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1363000
+2026-04-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,65000
+2026-04-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-04-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-04-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1554000
+2026-04-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1580000
+2026-04-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1369000
+2026-05-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1424000
+2026-05-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1740000
+2026-05-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-05-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1841000
+2026-05-02,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,400000
+2026-05-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2276000
+2026-05-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-05-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1623000
+2026-05-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1500000
+2026-05-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1704000
+2026-05-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1055000
+2026-05-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1617000
+2026-05-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1580000
+2026-05-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1710000
+2026-05-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,525000
+2026-05-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1471000
+2026-05-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1555000
+2026-05-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1165000
+2026-05-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2005000
+2026-05-09,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,360000
+2026-05-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2058000
+2026-05-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,840000
+2026-05-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1403000
+2026-05-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1575000
+2026-05-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1375000
+2026-05-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,260000
+2026-05-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1410000
+2026-05-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1640000
+2026-05-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1507000
+2026-05-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1619000
+2026-05-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1575000
+2026-05-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,155000
+2026-05-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1794000
+2026-05-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1610000
+2026-05-16,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,260000
+2026-05-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2298000
+2026-05-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-05-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1425000
+2026-05-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1580000
+2026-05-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1458000
+2026-05-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1691000
+2026-05-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1610000
+2026-05-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1080000
+2026-05-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1402000
+2026-05-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-05-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1689000
+2026-05-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1680000
+2026-05-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2026-05-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2080000
+2026-05-23,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,295000
+2026-05-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2283000
+2026-05-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1598000
+2026-05-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1710000
+2026-05-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1675000
+2026-05-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1625000
+2026-05-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1590000
+2026-05-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1491000
+2026-05-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,135000
+2026-05-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-05-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-05-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1731000
+2026-05-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1680000
+2026-05-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1826000
+2026-05-30,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
+2026-05-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2322000
+2026-06-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1634000
+2026-06-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1465000
+2026-06-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-06-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1663000
+2026-06-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1452000
+2026-06-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1575000
+2026-06-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-06-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1658000
+2026-06-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1441000
+2026-06-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1395000
+2026-06-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,855000
+2026-06-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1962000
+2026-06-06,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,305000
+2026-06-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2306000
+2026-06-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1135000
+2026-06-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1675000
+2026-06-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1610000
+2026-06-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1215000
+2026-06-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1600000
+2026-06-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1505000
+2026-06-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1640000
+2026-06-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,595000
+2026-06-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1352000
+2026-06-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1479000
+2026-06-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1650000
+2026-06-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,290000
+2026-06-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1788000
+2026-06-13,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,350000
+2026-06-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,210000
+2026-06-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2299000
+2026-06-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1417000
+2026-06-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1510000
+2026-06-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,180000
+2026-06-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1427000
+2026-06-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1595000
+2026-06-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1536000
+2026-06-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1620000
+2026-06-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-06-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1587000
+2026-06-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1670000
+2026-06-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1635000
+2026-06-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1732000
+2026-06-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1040000
+2026-06-20,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,310000
+2026-06-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2049000
+2026-06-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-06-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1463000
+2026-06-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1665000
+2026-06-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1582000
+2026-06-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1591000
+2026-06-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1470000
+2026-06-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1570000
+2026-06-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1005000
+2026-06-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1652000
+2026-06-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1690000
+2026-06-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2167000
+2026-06-27,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,290000
+2026-06-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2209000
+2026-06-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,65000
+2026-06-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-06-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-06-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1495000
+2026-06-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1605000
+2026-06-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1325000
+2026-07-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1535000
+2026-07-01,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1505000
+2026-07-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-07-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1638000
+2026-07-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1697000
+2026-07-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1450000
+2026-07-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-07-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1797000
+2026-07-04,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,275000
+2026-07-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2349000
+2026-07-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,885000
+2026-07-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1664000
+2026-07-06,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1450000
+2026-07-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1547000
+2026-07-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1365000
+2026-07-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1490000
+2026-07-08,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1690000
+2026-07-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1145000
+2026-07-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1462000
+2026-07-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1725000
+2026-07-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1505000
+2026-07-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,720000
+2026-07-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2188000
+2026-07-11,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,340000
+2026-07-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2132000
+2026-07-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,330000
+2026-07-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1599000
+2026-07-13,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1435000
+2026-07-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,130000
+2026-07-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1371000
+2026-07-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1388000
+2026-07-15,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1570000
+2026-07-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,155000
+2026-07-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1553000
+2026-07-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1363000
+2026-07-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1520000
+2026-07-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-07-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2082000
+2026-07-18,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,395000
+2026-07-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2071000
+2026-07-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1424000
+2026-07-20,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1565000
+2026-07-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,725000
+2026-07-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1429000
+2026-07-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-07-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1430000
+2026-07-22,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1650000
+2026-07-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2026-07-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1455000
+2026-07-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1645000
+2026-07-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1655000
+2026-07-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2141000
+2026-07-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,575000
+2026-07-25,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,360000
+2026-07-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2492000
+2026-07-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1646000
+2026-07-27,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1540000
+2026-07-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1404000
+2026-07-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,135000
+2026-07-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-07-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-07-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1719000
+2026-07-29,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1505000
+2026-07-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1467000
+2026-07-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1393000
+2026-07-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1475000
+2026-08-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2312000
+2026-08-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-08-01,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,330000
+2026-08-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2380000
+2026-08-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1705000
+2026-08-03,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1675000
+2026-08-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-08-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1774000
+2026-08-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1807000
+2026-08-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1620000
+2026-08-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,960000
+2026-08-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1598000
+2026-08-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1510000
+2026-08-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1260000
+2026-08-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1805000
+2026-08-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2272000
+2026-08-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1105000
+2026-08-08,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,390000
+2026-08-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2190000
+2026-08-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1675000
+2026-08-10,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1730000
+2026-08-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,605000
+2026-08-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1705000
+2026-08-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1583000
+2026-08-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1640000
+2026-08-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,305000
+2026-08-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1477000
+2026-08-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,135000
+2026-08-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1779000
+2026-08-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1605000
+2026-08-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2245000
+2026-08-15,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,280000
+2026-08-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,210000
+2026-08-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2137000
+2026-08-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,680000
+2026-08-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1698000
+2026-08-17,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1760000
+2026-08-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-08-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1764000
+2026-08-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1678000
+2026-08-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1560000
+2026-08-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1470000
+2026-08-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,805000
+2026-08-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1771000
+2026-08-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1565000
+2026-08-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-08-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1987000
+2026-08-22,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,320000
+2026-08-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2109000
+2026-08-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1573000
+2026-08-24,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1815000
+2026-08-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1802000
+2026-08-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,855000
+2026-08-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1425000
+2026-08-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1765000
+2026-08-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1550000
+2026-08-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1681000
+2026-08-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,100000
+2026-08-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1785000
+2026-08-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-08-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-08-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2248000
+2026-08-29,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,295000
+2026-08-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2286000
+2026-08-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1740000
+2026-08-31,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1655000
+2026-09-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1494000
+2026-09-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-09-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1778000
+2026-09-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1690000
+2026-09-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1625000
+2026-09-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-09-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1793000
+2026-09-04,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1740000
+2026-09-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2353000
+2026-09-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,900000
+2026-09-05,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,380000
+2026-09-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2255000
+2026-09-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1450000
+2026-09-07,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1360000
+2026-09-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1705000
+2026-09-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1656000
+2026-09-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1365000
+2026-09-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1590000
+2026-09-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1580000
+2026-09-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1752000
+2026-09-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,850000
+2026-09-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1784000
+2026-09-11,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1565000
+2026-09-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1907000
+2026-09-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,275000
+2026-09-12,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
+2026-09-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2442000
+2026-09-13,Pengeluaran,Pengeluaran Lainnya,[SIMULASI] Biaya tak terduga,Tunai,75000
+2026-09-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1839000
+2026-09-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1530000
+2026-09-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1707000
+2026-09-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,190000
+2026-09-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1640000
+2026-09-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1010000
+2026-09-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1695000
+2026-09-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1710000
+2026-09-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-09-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1470000
+2026-09-18,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1850000
+2026-09-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2015000
+2026-09-19,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,350000
+2026-09-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2598000
+2026-09-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,955000
+2026-09-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1702000
+2026-09-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1865000
+2026-09-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-09-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1745000
+2026-09-22,Pengeluaran,Marketing,[SIMULASI] Endorse / konten influencer lokal,Transfer Bank,500000
+2026-09-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1808000
+2026-09-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Tunai,1770000
+2026-09-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1464000
+2026-09-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1692000
+2026-09-25,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,1330000
+2026-09-25,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1605000
+2026-09-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2338000
+2026-09-26,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,350000
+2026-09-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2642000
+2026-09-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1703000
+2026-09-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,130000
+2026-09-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1600000
+2026-09-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-09-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-09-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1629000
+2026-09-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1821000
+2026-09-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1740000
+2026-10-01,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1624000
+2026-10-01,Pengeluaran,Sewa,[SIMULASI] Sewa tempat usaha bulanan,Transfer Bank,4750000
+2026-10-02,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1682000
+2026-10-02,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Transfer Bank,1700000
+2026-10-03,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2281000
+2026-10-03,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,325000
+2026-10-03,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-10-04,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2606000
+2026-10-05,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1670000
+2026-10-05,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1820000
+2026-10-05,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1095000
+2026-10-06,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1778000
+2026-10-07,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1805000
+2026-10-07,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1710000
+2026-10-08,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1768000
+2026-10-08,Pengeluaran,Listrik dan Air,[SIMULASI] Token listrik oven & toko,E-Wallet,1220000
+2026-10-09,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1547000
+2026-10-09,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1820000
+2026-10-10,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2037000
+2026-10-10,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,290000
+2026-10-10,Pengeluaran,Marketing,[SIMULASI] Iklan Instagram / Meta Ads,E-Wallet,705000
+2026-10-11,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2556000
+2026-10-12,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1689000
+2026-10-12,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1585000
+2026-10-12,Pengeluaran,Listrik dan Air,[SIMULASI] Tagihan air PDAM,Transfer Bank,305000
+2026-10-13,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1780000
+2026-10-14,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1658000
+2026-10-14,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1650000
+2026-10-15,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1598000
+2026-10-15,Pengeluaran,Operasional,[SIMULASI] Alat kebersihan & sabun,Tunai,195000
+2026-10-16,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1844000
+2026-10-16,Pendapatan,Pendapatan Lainnya,[SIMULASI] Pesanan kue ulang tahun / katering,Transfer Bank,2145000
+2026-10-16,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1650000
+2026-10-17,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,2060000
+2026-10-17,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,315000
+2026-10-17,Pengeluaran,Operasional,[SIMULASI] Gas LPG 12 kg (2 tabung),Tunai,380000
+2026-10-18,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2524000
+2026-10-19,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1582000
+2026-10-19,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Tunai,1800000
+2026-10-20,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1685000
+2026-10-20,Pengeluaran,Kemasan,"[SIMULASI] Box kue, plastik & label",Transfer Bank,1160000
+2026-10-21,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1519000
+2026-10-21,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1700000
+2026-10-21,Pengeluaran,Operasional,[SIMULASI] Internet & pulsa,Transfer Bank,350000
+2026-10-22,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1563000
+2026-10-23,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1795000
+2026-10-23,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1670000
+2026-10-24,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2278000
+2026-10-24,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
+2026-10-25,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,2692000
+2026-10-26,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1743000
+2026-10-26,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Tepung, gula & ragi",Transfer Bank,1880000
+2026-10-27,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Transfer Bank,1692000
+2026-10-28,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,1773000
+2026-10-28,Pendapatan,Pendapatan Lainnya,[SIMULASI] Penjualan dus & karung bekas,Tunai,100000
+2026-10-28,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Mentega, susu & telur",Transfer Bank,1610000
+2026-10-28,Pengeluaran,Gaji,[SIMULASI] Gaji karyawan produksi (2 orang),Transfer Bank,5880000
+2026-10-28,Pengeluaran,Gaji,[SIMULASI] Gaji kasir & penjualan (1 orang),Transfer Bank,2940000
+2026-10-29,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1667000
+2026-10-30,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),Tunai,1538000
+2026-10-30,Pengeluaran,Pembelian Bahan Baku,"[SIMULASI] Belanja Cokelat, topping & selai",Tunai,1900000
+2026-10-31,Pendapatan,Penjualan Produk,[SIMULASI] Penjualan harian toko (kasir),QRIS,2195000
+2026-10-31,Pengeluaran,Transportasi,[SIMULASI] BBM & ongkos kirim pesanan,Tunai,270000
