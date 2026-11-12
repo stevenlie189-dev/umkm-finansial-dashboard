@@ -53,7 +53,7 @@ Q4 = IF(E5="Semua Bulan", DATE(C5,12,31), EOMONTH(Q3,0))
 | Tabel bulanan | `SUMIFS` per bulan dengan `DATE`/`EOMONTH`; status Sehat/Waspada/Rugi dengan `IF` |
 | Komposisi kategori | `INDEX/MATCH` menarik daftar kategori Pengeluaran dari KATEGORI, lalu `SUMIFS` per kategori |
 
-Dashboard memakai **referensi kolom penuh** (`TRANSAKSI!G:G`), bukan rentang tetap, sehingga transaksi baru — termasuk di bawah baris 5.004 — otomatis terhitung. Formula `setFormula` di Apps Script selalu berbentuk bahasa Inggris dengan pemisah koma sehingga bebas masalah locale; spreadsheet diatur ke locale `id_ID` agar tanggal/mata uang tampil sesuai Indonesia.
+Dashboard memakai **referensi kolom penuh** (`TRANSAKSI!G:G`), bukan rentang tetap, sehingga transaksi baru — termasuk di bawah baris 5.004 — otomatis terhitung. Formula ditulis dengan sintaks Inggris (pemisah koma), sehingga `Code.gs` memaksa locale spreadsheet `en_US` saat setup (locale Indonesia membuat semua formula `#ERROR!`). Untuk tanggal/angka format Indonesia, ubah **File → Settings → Locale → Indonesia** setelah setup; Google Sheets mengonversi formula otomatis.
 
 **Indikator kondisi:** SEHAT (margin ≥ 10%), WASPADA (laba, margin < 10%), RUGI (laba < 0), BELUM ADA DATA.
 
@@ -99,5 +99,6 @@ python3 tools/validate.py                   # uji (butuh LibreOffice + pandas + 
 - **ID Transaksi** berbasis nomor baris; mengosongkan baris (bukan menghapus) menjaga formula utuh. Menghapus baris penuh akan menggeser ID.
 - Dropdown Kategori menampilkan semua kategori; kecocokan dengan Jenis diperiksa lewat kolom *Cek Data* (bukan dropdown bertingkat).
 - Warna kuning-hijau-merah indikator memakai ambang margin 10% yang bersifat asumsi; ubah di formula bila perlu.
-- Tampilan nama bulan/format Rupiah bergantung locale spreadsheet; Excel mengikuti bahasa instalasi Office.
+- Setelah setup, locale spreadsheet adalah `en_US` (nama bulan Inggris, pemisah ribuan koma) sampai Anda mengubahnya manual ke Indonesia; Excel mengikuti bahasa instalasi Office.
+- Perilaku locale di atas ditemukan dari uji pada file Google Sheets nyata; pengubahan locale ke Indonesia setelah setup belum diverifikasi oleh saya.
 - Data simulasi dibuat deterministik (PRNG bersemi tetap) dan tidak merepresentasikan usaha nyata.

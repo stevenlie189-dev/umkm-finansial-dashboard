@@ -94,6 +94,12 @@ function hapusDataSimulasi() {
 
 function bangun_(ss, ganti) {
   ss.setSpreadsheetTimeZone('Asia/Jakarta');
+  // PENTING: setFormula() membaca formula menurut locale spreadsheet SAAT formula ditulis.
+  // Locale Indonesia memakai titik koma sebagai pemisah argumen, sehingga formula berpemisah koma
+  // menjadi #ERROR! (Formula parse error) dan tetap error walau locale diganti sesudahnya.
+  // Maka locale dipaksa en_US sebelum formula ditulis. Untuk tampilan Indonesia, ubah secara manual
+  // SETELAH setup: File > Settings > Locale > Indonesia (Google Sheets mengonversi formula otomatis).
+  ss.setSpreadsheetLocale('en_US');
   var dash, trx, kat, pet;
   if (ganti) {
     dash = ss.getSheets()[0];
@@ -111,9 +117,6 @@ function bangun_(ss, ganti) {
   bangunTransaksi_(trx);
   bangunDashboard_(dash);
   bangunPetunjuk_(pet);
-  // PENTING: locale diatur TERAKHIR. Jika diatur sebelum formula ditulis, locale id_ID
-  // (pemisah argumen titik koma) membuat seluruh formula berpemisah koma menjadi #ERROR!.
-  ss.setSpreadsheetLocale('id_ID');
   ss.setActiveSheet(dash);
 }
 
